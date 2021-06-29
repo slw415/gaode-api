@@ -1,0 +1,19 @@
+{
+    "name": "shishuaishuai\/gaode",
+    "description": "一个高德ap练习",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shiliwei",
+            "email": "17858024722@163.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shishuaishuai\\Gaode\\": "src"
+        }
+    }
+}
